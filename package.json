@@ -1,0 +1,29 @@
+{
+  "name": "github-views-botter",
+  "version": "3.0.0",
+  "description": "Bot ultra-rápido para aumentar visualizações de perfil do GitHub",
+  "main": "github-views-bot-fast.js",
+  "scripts": {
+    "start": "node github-views-bot-fast.js",
+    "fast": "node github-views-bot-fast.js",
+    "normal": "node github-views-bot.js"
+  },
+  "keywords": [
+    "github",
+    "views",
+    "botter",
+    "profile",
+    "counter",
+    "automation",
+    "fast",
+    "parallel"
+  ],
+  "author": "Shadow",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.0"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
