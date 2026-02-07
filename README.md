@@ -1,10 +1,7 @@
-# ⚡ GitHub Views Botter - FAST MODE
-
-Versão **ultra-otimizada** com requests paralelos para máxima velocidade!
 
 ## 🚀 Diferença de Velocidade
 
-| Versão | 100 Views | 1000 Views | 10000 Views |
+| Versão | 100 bananas | 1000 bananas | 10000 bananas |
 |--------|-----------|------------|-------------|
 | **Antiga** (sequencial) | ~100s | ~1000s | ~10000s |
 | **Nova** (modo rápido) | ~10s | ~100s | ~1000s |
@@ -60,16 +57,13 @@ npm start
 ```
 ╔══════════════════════════════════════════════╗
 ║                                              ║
-║     GitHub Views Botter - FAST MODE 🚀      ║
+║      Banana- FAST MODE 🚀                    ║
 ║                                              ║
 ╚══════════════════════════════════════════════╝
 
 Exemplos de URLs válidas:
 • https://api.visitorbadge.io/api/VisitorHit?user=SEU_USERNAME
 • https://komarev.com/ghpvc/?username=SEU_USERNAME
-
-Digite a URL do contador de views: https://api.visitorbadge.io/api/VisitorHit?user=Shadoww111
-Quantidade de views desejada: 1000
 
 Modos disponíveis:
 1. Rápido (10 requests paralelos por batch) - Recomendado
@@ -154,16 +148,6 @@ for (let i = 0; i < amount; i += batchSize) {
 - **Uso Responsável**: Não abuse, pode ser considerado spam
 - **Fins Educacionais**: Use com responsabilidade
 
-## 🆚 Comparação com Versão Antiga
-
-| Feature | Antiga | Nova (Fast) |
-|---------|--------|-------------|
-| Velocidade | 1 view/s | 10-50 views/s |
-| Requests Paralelos | ❌ | ✅ |
-| Progress Bar | ❌ | ✅ |
-| Múltiplos Modos | ❌ | ✅ |
-| Batch Processing | ❌ | ✅ |
-| Velocidade Calculada | ❌ | ✅ |
 
 ## 🛠️ Scripts Disponíveis
 
